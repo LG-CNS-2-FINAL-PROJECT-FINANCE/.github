@@ -1,4 +1,4 @@
-<img width="448" height="433" alt="image" src="https://github.com/user-attachments/assets/788abda8-3c3c-41c4-ba46-08e173282d36" /><img width="330" height="130" alt="zzogaemall" src="https://github.com/user-attachments/assets/94161937-38da-41b1-a6af-3276a7f169e2" />
+<img width="330" height="130" alt="zzogaemall" src="https://github.com/user-attachments/assets/94161937-38da-41b1-a6af-3276a7f169e2" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=dc2626&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello👋+This+is+DDiring+Team+Github)](https://git.io/typing-svg)
 <br>
