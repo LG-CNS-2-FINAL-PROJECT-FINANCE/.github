@@ -25,6 +25,8 @@
 
 - 📝[WBS](https://docs.google.com/spreadsheets/d/1IxABieP3olYeeHTGDS7tIBPcYpnsGzf8yCfudYvWB7I/edit?gid=1461626920#gid=1461626920)
 
+<br>
+<br>
 
 ## 🎊 구성
 
@@ -95,6 +97,8 @@
 <img width="850" height="530" alt="image" src="https://github.com/user-attachments/assets/384234d7-3bc0-4ccb-a5dd-c39748ac2b7f" />
 
 
+<br>
+<br>
 <br>
   
 <div align=left><h2>협업 툴</h2></div>
