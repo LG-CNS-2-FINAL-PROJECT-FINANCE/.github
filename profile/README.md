@@ -3,16 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=dc2626&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello👋+This+is+DDiring+Team+Github)](https://git.io/typing-svg)
 <br>
 
+
 ## 🙂Project Intro by 🧩쪼개몰
 
 #### **🧩쪼개몰**
 >기존 조각 투자 플랫폼의 중앙화·불투명·지분관리 한계를 해결합니다.<br>
 >자산을 **온체인**으로 **토큰화**하고 **스마트 컨트랙트**로 거래와 배당을 **자동화**하여,<br>누구나 소액으로 참여하고 실시간으로 지분·수익을 검증할 수 있는 **조각 투자** 인프라를 제공합니다.
-<br><br>
+<br>
 
 #### **🖼️BackGround**:
 >많은 분야에서 조각 투자에 대한 관심이 높아지고 있는 와중 기존 플랫폼은 중앙화된 구조, 투명성 부족, 지분 관리의 불확실성 등의 한계가 있습니다. <br>이를 해결하기 위해 블록체인 기술을 활용하여 실물 및 지적 자산에 대한 조각 투자를 가능하게 하는 플랫폼을 개발하여<br> 투자자는 소액 자산 형성에 참여할 수 있고, 스마트 컨트랙트를 통해 수익 배분의 투명성과 자동화를 실현합니다.
 
+<br>
+<br>
 
 
 ## **💡Our Project**:
@@ -83,45 +86,53 @@
 
 <br><br><br>
 
+## 🗓️WBS
+
+
+<br><br><br>
+
+## 💻기술스택
+<img width="850" height="530" alt="image" src="https://github.com/user-attachments/assets/384234d7-3bc0-4ccb-a5dd-c39748ac2b7f" />
+
+
+<br>
+  
+<div align=left><h2>협업 툴</h2></div>
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
+![IntelliJ%20IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white)
+![Google%20Sheets](https://img.shields.io/badge/Google_Sheets-34A853?logo=googlesheets&logoColor=white)
+![Google%20Docs](https://img.shields.io/badge/Google_Docs-4285F4?logo=googledocs&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+
+<br>
+<br>
+<br>
+
 ## 🔧팀원 구성
 
 <div align="center">
 
 | **김동현** | **구민** | **김민우** | **권순영** |
 | :------: |  :------: | :------: | :------: |
-|[<img src="https://github.com/user-attachments/assets/8e590cd4-72d5-494b-a4d5-c9e54d200477" width="150" height="150"> <br/> @rlaalsdn0421](https://github.com/rlaalsdn0421)|[<img src="https://i.namu.wiki/i/cPtMhh2Q2gfkAQZpBRVo0Y_YLiDKAec5mA0JY7DZRScG__8_vR5d00XU2tWzKcjlLbS-tzicqrPOUA2V3uufIJb5P-QTIimhcxsUAnSsalfIYx2kjGFqZhtCnLRc1kwL74TV-VKgJkjOszhpE2CT4Q.webp" width="150" height="150"> <br/> @ku0629](https://github.com/ku0629) |[<img src="https://i.pinimg.com/564x/ef/98/f7/ef98f79273b3ba3af8b987c84f729fe5.jpg" width="150" height="150"/> <br/> @rlaalsdn0421](https://github.com/rlaalsdn0421) | [<img src="https://mblogthumb-phinf.pstatic.net/20160519_202/trollcig_1463650705631LGms7_PNG/GO.png?type=w800" width="150" height="150"/> <br/> @kaebalsaebal](https://github.com/kaebalsaebal) |
+|[<img src="https://github.com/user-attachments/assets/8e590cd4-72d5-494b-a4d5-c9e54d200477" width="150" height="150"> <br/> @rlaalsdn0421](https://github.com/rlaalsdn0421)|[<img src="https://i.namu.wiki/i/cPtMhh2Q2gfkAQZpBRVo0Y_YLiDKAec5mA0JY7DZRScG__8_vR5d00XU2tWzKcjlLbS-tzicqrPOUA2V3uufIJb5P-QTIimhcxsUAnSsalfIYx2kjGFqZhtCnLRc1kwL74TV-VKgJkjOszhpE2CT4Q.webp" width="150" height="150"> <br/> @ku0629](https://github.com/ku0629) |[<img src="https://github.com/user-attachments/assets/b21a0051-f1fd-48c4-8806-7a1d5a652614" width="150" height="150"/> <br/> @rlaalsdn0421](https://github.com/rlaalsdn0421) | [<img src="https://mblogthumb-phinf.pstatic.net/20160519_202/trollcig_1463650705631LGms7_PNG/GO.png?type=w800" width="150" height="150"/> <br/> @kaebalsaebal](https://github.com/kaebalsaebal) |
 
 | **남상원** | **안효준** | **오장현** | **이민기** | **이준호** |
 | :------: |  :------: | :------: | :------: | :------: |
 |[<img src="https://github.com/user-attachments/assets/55a5f6e6-6f3b-4cfc-9194-15e5386ddd24" width="150" height="150"> <br/> @NamSangwon](https://github.com/NamSangwon)|[<img src="https://github.com/user-attachments/assets/f15b6694-6560-4ad1-8f4a-b4c1e672779b" width="150" height="150"> <br/> @hyojunahn111](https://github.com/hyojunahn111) |[<img src="https://www.jobgo.ac/jl/jl_resource/campaign/6718a7654e65d88/6718a7654e65d88.jpg" width="150" height="150"/> <br/> @5ohmydays5](https://github.com/5ohmydays5) | [<img src="https://github.com/user-attachments/assets/9dca3d5f-e0f5-489b-b070-a32418127fa7" width="150" height="150"/> <br/> @DDu-DDu](https://github.com/DDu-DDu) | [<img src="https://github.com/user-attachments/assets/2c2802b8-997b-4eb0-9bd9-e174f5dd436e" width="150" height="150"/> <br/> @Junho0225](https://github.com/Junho0225) |
 
-
 </div>
 
-<br><br><br>
-
-## 🗓️개발 과정 타임라인
-![image](https://github.com/user-attachments/assets/7a0e7404-0342-4155-ad89-6913f146e83c)
-
-<br><br><br>
-
-## 💻개발환경
-<img src="https://github.com/WebAppTeamPJ/HanulDure/assets/105586878/0000951f-3a2c-42c2-a902-fe930149d968" height=500 width=500>
-
-<br>
-  
-<div align=left><h4>협업 툴</h4></div>
-<div align=left><a href="https://www.figma.com/file/trnuQMSJImWGjZdfgPO8Xp/KeyBoard?type=design&node-id=0-1&mode=design&t=RjBiLxVPDb2ovY1K-0"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" /><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/><br><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/><a href="https://www.notion.so/c67e959442fe4653918413831d81cf76?v=6b249613c0ee42d9943c6f2a879ac5a9"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></div>
 
 <br>
 <br>
 <br>
 
-## 🌳브랜치 전략
-### _Trunk-based_
-![image](https://github.com/user-attachments/assets/57eebe55-fd12-40ed-af06-51f5456548df)
-
-- main 브랜치와 feature 개인 브랜치로 나눠서 운용
-- **main** 브랜치는 배포 단계에서만 사용하는 브랜치
-- **feature** 브랜치는 각 구현 단위로 구분하여 사용
-- **feature** 브랜치를 개인 브랜치 커밋 및 테스트
+## 🤝 협업 요청
+- 팀장: Junho / Github: [@Junho](https://github.com/Junho0225) / Email: ljunho0225@gmail.com
