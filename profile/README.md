@@ -19,11 +19,9 @@
 
 
 ## **💡Our Project**:
-- 💡[요구사항 명세서](https://docs.google.com/spreadsheets/d/1IxABieP3olYeeHTGDS7tIBPcYpnsGzf8yCfudYvWB7I/edit?gid=0)
-
-- 📒[API 명세서](https://docs.google.com/spreadsheets/d/1IxABieP3olYeeHTGDS7tIBPcYpnsGzf8yCfudYvWB7I/edit?gid=87194501#gid=87194501)
-
-- 📝[WBS](https://docs.google.com/spreadsheets/d/1IxABieP3olYeeHTGDS7tIBPcYpnsGzf8yCfudYvWB7I/edit?gid=1461626920#gid=1461626920)
+- 📖[Notion](https://www.notion.so/3-ZzoGaeMall-225fef49d8d58064bd44d58fe3b973b2)
+- 🔊[발표영상]()
+- 📹[시연영상]()
 
 <br>
 <br>
