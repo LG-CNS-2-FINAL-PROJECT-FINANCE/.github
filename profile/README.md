@@ -121,11 +121,11 @@
 
 <div align="center">
 
-| **김동현** | **구민** | **김민우** | **권순영** |
+| **김동현** <br/> Backend | **구민** <br/> Frontend | **김민우** <br/> Backend | **권순영** <br/> Backend |
 | :------: |  :------: | :------: | :------: |
 |[<img src="https://github.com/user-attachments/assets/8e590cd4-72d5-494b-a4d5-c9e54d200477" width="150" height="150"> <br/> @rlaalsdn0421](https://github.com/rlaalsdn0421)|[<img src="https://i.namu.wiki/i/cPtMhh2Q2gfkAQZpBRVo0Y_YLiDKAec5mA0JY7DZRScG__8_vR5d00XU2tWzKcjlLbS-tzicqrPOUA2V3uufIJb5P-QTIimhcxsUAnSsalfIYx2kjGFqZhtCnLRc1kwL74TV-VKgJkjOszhpE2CT4Q.webp" width="150" height="150"> <br/> @ku0629](https://github.com/ku0629) |[<img src="https://github.com/user-attachments/assets/b21a0051-f1fd-48c4-8806-7a1d5a652614" width="150" height="150"/> <br/> @rlaalsdn0421](https://github.com/rlaalsdn0421) | [<img src="https://mblogthumb-phinf.pstatic.net/20160519_202/trollcig_1463650705631LGms7_PNG/GO.png?type=w800" width="150" height="150"/> <br/> @kaebalsaebal](https://github.com/kaebalsaebal) |
 
-| **남상원** | **안효준** | **오장현** | **이민기** | **이준호** |
+| **남상원** <br/> Backend | **안효준** <br/> Frontend | **오장현** <br/> Backend | **이민기** <br/> Backend | **이준호** <br/> Frontend |
 | :------: |  :------: | :------: | :------: | :------: |
 |[<img src="https://github.com/user-attachments/assets/55a5f6e6-6f3b-4cfc-9194-15e5386ddd24" width="150" height="150"> <br/> @NamSangwon](https://github.com/NamSangwon)|[<img src="https://github.com/user-attachments/assets/f15b6694-6560-4ad1-8f4a-b4c1e672779b" width="150" height="150"> <br/> @hyojunahn111](https://github.com/hyojunahn111) |[<img src="https://www.jobgo.ac/jl/jl_resource/campaign/6718a7654e65d88/6718a7654e65d88.jpg" width="150" height="150"/> <br/> @5ohmydays5](https://github.com/5ohmydays5) | [<img src="https://github.com/user-attachments/assets/9dca3d5f-e0f5-489b-b070-a32418127fa7" width="150" height="150"/> <br/> @DDu-DDu](https://github.com/DDu-DDu) | [<img src="https://github.com/user-attachments/assets/2c2802b8-997b-4eb0-9bd9-e174f5dd436e" width="150" height="150"/> <br/> @Junho0225](https://github.com/Junho0225) |
 
