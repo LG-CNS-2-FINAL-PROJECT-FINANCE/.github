@@ -21,7 +21,7 @@
 ## **💡Our Project**:
 - 📖[Notion](https://www.notion.so/3-ZzoGaeMall-225fef49d8d58064bd44d58fe3b973b2)
 - 🔊[발표영상]()
-- 📹[시연영상]()
+- 📹[시연영상](https://youtu.be/YqR9gQ3ugHk)
 
 <br>
 <br>
