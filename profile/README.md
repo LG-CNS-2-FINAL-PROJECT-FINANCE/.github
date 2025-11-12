@@ -19,8 +19,7 @@
 
 
 ## **💡Our Project**:
-- 📖[Notion](https://www.notion.so/3-ZzoGaeMall-225fef49d8d58064bd44d58fe3b973b2)
-- 🔊[발표영상]()
+- 📖[Notion](https://www.notion.so/LG-CNS-CAMP-2-3-ZzoGaeMall-2761b26467dc80f0ae4ad64d63fbced2)
 - 📹[시연영상](https://youtu.be/YqR9gQ3ugHk)
 
 <br>
